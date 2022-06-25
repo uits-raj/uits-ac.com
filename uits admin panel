@@ -1,0 +1,7 @@
+"# uits-ac.com" >> README.
+{home_page.zip}
+uits-ac add README.md
+uits-ac commit -m "first commit"
+uits-ac branch -M main
+uits-ac remote add origin https://www.uits-ac.com/homepage
+uits-ac push -u origin main
